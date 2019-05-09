@@ -1,0 +1,80 @@
+{
+  "fermentation": [
+    {
+      "id": 1,
+      "name": "F1",
+      "capacity": 100
+    },
+    {
+      "id": 2,
+      "name": "F2",
+      "capacity": 100
+    }
+  ],
+  "distill": [
+    {
+      "id": 3,
+      "name": "S1",
+      "capacity": 100
+    }
+  ],
+  "production": [
+    {
+      "id": 4,
+      "name": "H1",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 5,
+      "name": "H2",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 6,
+      "name": "H3",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 7,
+      "name": "H4",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 8,
+      "name": "H5",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 9,
+      "name": "H6",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 10,
+      "name": "H7",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 11,
+      "name": "H8",
+      "capacity": 50,
+      "weight": 20
+    },
+    {
+      "id": 12,
+      "name": "H9",
+      "capacity": 50,
+      "weight": 20
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
