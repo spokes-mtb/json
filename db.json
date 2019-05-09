@@ -3,7 +3,9 @@
     {
       "id": 1,
       "name": "F1",
-      "capacity": 100
+      "capacity": 100,
+      "logCount": 5,
+      "startDate": "01/01/2019"
     },
     {
       "id": 2,
