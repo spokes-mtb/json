@@ -10,14 +10,14 @@
     {
       "id": 2,
       "name": "F2",
-      "capacity": 100
+      "capacity": 500
     }
   ],
   "distill": [
     {
       "id": 3,
       "name": "S1",
-      "capacity": 100
+      "capacity": 1000
     }
   ],
   "production": [
@@ -54,13 +54,13 @@
     {
       "id": 9,
       "name": "H6",
-      "capacity": 50,
+      "capacity": 80,
       "weight": 20
     },
     {
       "id": 10,
       "name": "H7",
-      "capacity": 50,
+      "capacity": 100,
       "weight": 20
     }
   ]
