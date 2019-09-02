@@ -66,6 +66,7 @@
   ],
   "fermenterlogs": [
     {
+      "id": 1,
       "logdate": "2019-01-01T13:12",
       "equipmentId": 2,
       "corn": 25,
