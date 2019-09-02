@@ -67,7 +67,7 @@
   "fermenterlogs": [
     {
       "logdate": "2019-01-01T13:12",
-      "id": 2,
+      "equipmentId": 2,
       "corn": 25,
       "sugar": 400,
       "temperature": 18,
