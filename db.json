@@ -63,5 +63,16 @@
       "capacity": 100,
       "weight": 20
     }
+  ],
+  "fermenterlogs": [
+    {
+      "logdate": "2019-01-01T13:12",
+      "id": 2,
+      "corn": 25,
+      "sugar": 400,
+      "temperature": 18,
+      "sgBW": 1.038,
+      "sgRef": 1.040
+    }      
   ]
 }
