@@ -1,5 +1,5 @@
 {
-  "fermentation": [
+  "fermenters": [
     {
       "id": 1,
       "name": "F1",
@@ -13,14 +13,14 @@
       "capacity": 500
     }
   ],
-  "distill": [
+  "stills": [
     {
       "id": 3,
       "name": "Still 1",
       "capacity": 1000
     }
   ],
-  "production": [
+  "holdingtanks": [
     {
       "id": 4,
       "name": "H1",
